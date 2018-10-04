@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 this is just testing
+<<<<<<< HEAD
 , the file is edited at the master branch
+=======
+, edited at the master branch
+=======
+this is just testing, edited in sgu2
+>>>>>>> commited at branch sgu2
+>>>>>>> commited at branch sgu2
